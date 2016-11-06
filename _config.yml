@@ -10,7 +10,7 @@ description: 王俊涛的博客 前端爱好者
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  Gaohaoyang
+github_username:  Wangjuntao
 permalink: /:year/:month/:day/:title/
 
 # Build settings
