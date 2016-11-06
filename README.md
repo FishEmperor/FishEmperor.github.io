@@ -1,35 +1,32 @@
-# Simpleyyt
+# About
 
-My blog based on Jekyll-Bootstrap.
+This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
 
-## About Jekyll-Bootstrap
+You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+---
 
-## About theme
+这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
 
-This theme is the copy of [elementaryOS](http://elementaryos.org) portal page. Some features are imperfect, but I will make it more perfect.
+博客访问地址：[点击这里](http://gaohaoyang.github.io)
 
-## Usage
+**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
-You can edit the `_config.yml` file to change the setting of site. If you want to change avatar or favicon, just replace the files in `assets\themes\Snail\img`.
+<!--
 
-## About excerpt
+## 被引用信息
 
-There are 2 ways of excerpt: "teaser" and "truncate_words" (Configurated in _config.yml).
+使用了我的模板并写明来源的人：   
 
- * "teaser": look for the More tag (<!--more-->) and create a teaser from the content that precedes the More tag.
-You must place "<!--more-->" at paragraph in post. The whole content will be displayed in homepage if no More tag found in post.
+* [dreamholy](http://dreamholy.github.io/)
 
- * "truncate_words": generate an excerpt automatically by selecting the first 20 words of the post. It doesn't work well in some of no-English post.
+没有注明来源的人：
 
-## Change Log
+* [yangshuailing](http://yangshuailing.github.io/com/)
+* [huapu728](http://huapu728.github.io/)
+* [greatbuger](http://greatbuger.github.io/) 
 
- * Add pagination.
- * Add new way of excerpt.
- * Download google fonts to the local.
- * Add google custom search engine.
 
-## License
+-->
 
-[MIT](http://opensource.org/licenses/MIT)
+
